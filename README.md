@@ -1,4 +1,4 @@
-# Laporan Keuangan Kas Rt
+# Laporan Keuangan Kas RT
 
  Nama Kelopok : 
  
