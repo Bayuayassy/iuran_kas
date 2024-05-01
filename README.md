@@ -79,7 +79,7 @@ dependencies {
 
 **Terima kasih!**
 
-Terima kasih telah membaca penjelasan ini hingga akhir. Kami harap penjelasan ini bermanfaat dan membantu kalian memahami cara kerja aplikasi ini. 😉
+Terima kasih telah membaca penjelasan ini hingga akhir, Kami harap penjelasan ini bermanfaat dan membantu kalian memahami cara kerja aplikasi ini.
 
 
 
