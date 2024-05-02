@@ -70,7 +70,7 @@ dependencies {
 **Link:**
 
 * Youtube: 
-* Laporan PDF: 
+* Laporan PDF: https://drive.google.com/file/d/1-OVRWNiJjLFpq-4QWZV01_RO1oTBOI69/view?usp=sharing 
 
 **Referensi:**
 
